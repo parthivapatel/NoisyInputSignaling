@@ -1,0 +1,5 @@
+/Functions 
+	contains matlab scripts relevant to Image Segmentation, tracking and analysis.
+
+/Output
+	contains relevant output of analysis (graphs, visualizations, etc.)

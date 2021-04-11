@@ -1,7 +1,0 @@
-180829
-
-Continuous feeding for high doses .5 1 ng/ml
-1.5 hours in between experiments low to high
-5m time steps
-
-Analysis uses single chamber 2x fields of view
